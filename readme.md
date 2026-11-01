@@ -1,4 +1,4 @@
-
+   ![Emotion Detection AI](banner.png)
 # Emotion Detection AI
 
 - [Emotion Detection AI](#emotion-detection-ai)
